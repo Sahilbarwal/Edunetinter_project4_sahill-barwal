@@ -1,5 +1,5 @@
 
-# Personal Finance System using MERN Stack by Kartik Anil Nagare
+# Personal Finance System using MERN Stack by Sahil barwal
 
 
 
